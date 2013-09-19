@@ -5,4 +5,4 @@ a necessity for applications on Mac OS X.
 To fix this, use the Terminal on Mac OS X, and from this
 directory, type the following:
 
-chmod +x hw54460.app/Contents/MacOS/JavaApplicationStub
+chmod +x CommuterViz.app/Contents/MacOS/JavaApplicationStub

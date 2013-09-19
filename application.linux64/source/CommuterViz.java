@@ -14,7 +14,7 @@ import java.io.InputStream;
 import java.io.OutputStream; 
 import java.io.IOException; 
 
-public class hw54460 extends PApplet {
+public class CommuterViz extends PApplet {
 
 
 ControlP5 cp5; 
@@ -398,7 +398,7 @@ public float[] topThreePercent(int catagory,float top)//catagory refers to the s
 }
 
   static public void main(String[] passedArgs) {
-    String[] appletArgs = new String[] { "hw54460" };
+    String[] appletArgs = new String[] { "CommuterViz" };
     if (passedArgs != null) {
       PApplet.main(concat(appletArgs, passedArgs));
     } else {
